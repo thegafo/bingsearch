@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-npm i bingsearch
+npm i @gafo/bingsearch
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "bingsearch",
+  "name": "@gafo/bingsearch",
   "version": "1.0.0",
   "description": "Simple NodeJS Bing Search API with zero dependencies.",
   "main": "index.js",
